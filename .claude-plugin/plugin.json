@@ -1,0 +1,15 @@
+{
+  "name": "recipe-scaler",
+  "displayName": "Recipe Scaler",
+  "version": "1.0.0",
+  "description": "Search, scale, import, and shop your Recipe Scaler recipes, and run cooking timers, from Claude.",
+  "author": {
+    "name": "Mikhail Ozornin",
+    "url": "https://recipe-scaler.ru"
+  },
+  "homepage": "https://recipe-scaler.ru/about",
+  "privacyPolicyUrl": "https://recipe-scaler.ru/privacy",
+  "repository": "https://github.com/mikeozornin/recipe-scaler-claude-plugin",
+  "license": "MIT",
+  "keywords": ["recipes", "cooking", "shopping list", "timers"]
+}

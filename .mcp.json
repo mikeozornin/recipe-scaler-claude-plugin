@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "recipe-scaler": {
+      "type": "http",
+      "url": "https://mcp.recipe-scaler.ru/mcp"
+    }
+  }
+}
